@@ -1,0 +1,3 @@
+include ':android-myapp'
+include ':android-mybase'
+rootProject.name = "MyBase"

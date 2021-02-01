@@ -1,0 +1,1492 @@
+{
+  "props": {
+    "initialProps": {
+      "statusCode": 0,
+      "$wid": "6906700787856016898",
+      "$host": "www.tiktok.com",
+      "$pageUrl": "/@deustiendatne/video/6904968451937422593?lang=vi",
+      "$fullUrl": "https://www.tiktok.com/@deustiendatne/video/6904968451937422593?lang=vi",
+      "$isMobile": false,
+      "$isAndroid": false,
+      "$isIOS": false,
+      "$needFix": false,
+      "$requestId": "29182681608091619414",
+      "$cookieConsent": {
+        "ga": true,
+        "af": true,
+        "fbp": true,
+        "lip": true
+      },
+      "$deviceLimitRegisterExpired": true,
+      "$csrfToken": "9ee5YZI9KZvVteFr3FuKIbrU",
+      "$region": "VN",
+      "$isIMessage": false,
+      "$language": "vi",
+      "$originalLanguage": "vi",
+      "$languageList": [
+        {
+          "value": "id",
+          "alias": "id-ID",
+          "label": "Bahasa Indonesia",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "de",
+          "alias": "de-DE",
+          "label": "Deutsch",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "en",
+          "alias": "en",
+          "label": "English",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "es",
+          "alias": "es",
+          "label": "Español",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fr",
+          "alias": "fr",
+          "label": "Français",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "it",
+          "alias": "it-IT",
+          "label": "Italiano",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pl",
+          "alias": "pl-PL",
+          "label": "Polski",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pt_BR",
+          "alias": "pt-BR",
+          "label": "Português",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "vi",
+          "alias": "vi-VN",
+          "label": "Tiếng Việt",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "tr",
+          "alias": "tr-TR",
+          "label": "Türkçe",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ru",
+          "alias": "ru-RU",
+          "label": "Русский",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hi",
+          "alias": "hi-IN",
+          "label": "हिन्दी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ko",
+          "alias": "ko-KR",
+          "label": "한국어",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ja",
+          "alias": "ja-JP",
+          "label": "日本語",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zh_Hant",
+          "alias": "zh-Hant-TW",
+          "label": "繁體中文",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ar",
+          "alias": "ar",
+          "label": "العربية",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "$os": "windows",
+      "$reflowType": "t",
+      "$appId": 1180,
+      "$botType": "others",
+      "$appType": "t",
+      "$legalList": [
+        {
+          "title": "Tuân thủ pháp luật",
+          "key": "law-enforcement",
+          "href": "https://www.tiktok.com/legal/law-enforcement?lang=vi-VN"
+        },
+        {
+          "title": "Điều Khoản Dịch Vụ",
+          "key": "terms-of-use",
+          "href": "https://www.tiktok.com/legal/terms-of-use?lang=vi-VN"
+        },
+        {
+          "title": "Chính Sách Quyền Riêng Tư",
+          "key": "privacy-policy",
+          "href": "https://www.tiktok.com/legal/privacy-policy?lang=vi-VN"
+        }
+      ],
+      "$sgOpen": false,
+      "$baseURL": "www.tiktok.com",
+      "$gray": {
+        "upload": false,
+        "tea": true
+      },
+      "$downloadLink": {
+        "amazon": {
+          "visible": true,
+          "normal": "https://www.amazon.com/dp/B07KR1RJL2/"
+        },
+        "google": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/com.ss.android.ugc.trill"
+        },
+        "apple": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/id1235601864"
+        }
+      },
+      "$abTestVersion": {
+        "versionName": "70009996,70016701,70032244,70001178,70019680,70046911,70050412",
+        "parameters": {
+          "foryou_home_mobile_test": {
+            "vid": "v2"
+          },
+          "mobile_video_detail_test": {
+            "vid": "v1"
+          },
+          "autoplay_test": {
+            "vid": "v1"
+          },
+          "foryou_as_home_pc_test": {
+            "vid": "v1"
+          },
+          "more_shares_detail_test": {
+            "vid": "v3"
+          },
+          "open_url_test": {
+            "vid": "v1"
+          },
+          "shape_js_test": {
+            "enable": "true"
+          },
+          "more_shares_column_test": {
+            "vid": "v1"
+          },
+          "remove_right_column_test": {
+            "vid": "v1"
+          },
+          "node_data_source_test": {
+            "vid": "v2"
+          },
+          "foryou_404_test": {
+            "vid": "v2"
+          },
+          "shape_js_upload_test": {
+            "enable": "false"
+          },
+          "foryou_as_home_mobile_test": {
+            "vid": "v1"
+          },
+          "embed_v2_test": {
+            "vid": "v1"
+          },
+          "video_detail_test": {
+            "vid": "v4"
+          },
+          "video_mute_test": {
+            "vid": "v3"
+          },
+          "foryou_home_pc_test": {
+            "vid": "v3"
+          },
+          "foryou_detail_test": {
+            "vid": "v3"
+          },
+          "shape_js_webapp_test": {
+            "enable": "true"
+          },
+          "profile_dropdown_card_test": {
+            "vid": "v1"
+          },
+          "detail_page_video_card_test": {
+            "vid": "v1"
+          },
+          "one_column_engagement_buttons_test": {
+            "vid": "v3"
+          },
+          "side_nav_test": {
+            "vid": "v4"
+          },
+          "nothing_test": {
+            "vid": "v2"
+          },
+          "video_cover_test": {
+            "vid": "v1"
+          }
+        }
+      },
+      "$config": {
+        "covidBanner": {
+          "open": true,
+          "url": "https://www.tiktok.com/safety/resources/covid-19",
+          "background": "rgba(125,136,227,1)"
+        },
+        "bytedanceLink": {
+          "linkVisible": true,
+          "overrideUrl": ""
+        },
+        "krPopup": {
+          "open": false,
+          "url": "",
+          "text": []
+        },
+        "sgOpen": {
+          "SG_OPEN": false,
+          "BOT_THRESHOLD": 70,
+          "EXCLUDE_REGIONS": [
+            "DE",
+            "PT",
+            "DK",
+            "LT",
+            "LU",
+            "HR",
+            "LV",
+            "UA",
+            "HU",
+            "MC",
+            "MD",
+            "ME",
+            "IE",
+            "MK",
+            "EE",
+            "AD",
+            "IM",
+            "MT",
+            "IS",
+            "AL",
+            "IT",
+            "VA",
+            "ES",
+            "EU",
+            "AT",
+            "JE",
+            "RO",
+            "NL",
+            "BA",
+            "NO",
+            "RS",
+            "BE",
+            "FI",
+            "BG",
+            "FO",
+            "FR",
+            "SE",
+            "SI",
+            "BY",
+            "SJ",
+            "SK",
+            "SM",
+            "GB",
+            "GE",
+            "GG",
+            "GI",
+            "CH",
+            "GR",
+            "CY",
+            "CZ",
+            "PL",
+            "LI",
+            "TR",
+            "UY",
+            "FK",
+            "CL",
+            "PY",
+            "CO",
+            "GS",
+            "BO",
+            "VE",
+            "BR",
+            "AR",
+            "GY",
+            "PE",
+            "EC",
+            "GF",
+            "SR",
+            "BB",
+            "TT",
+            "PR",
+            "JM",
+            "HN",
+            "DM",
+            "BL",
+            "BM",
+            "DO",
+            "HT",
+            "BQ",
+            "BS",
+            "BZ",
+            "MF",
+            "GD",
+            "CA",
+            "US",
+            "KN",
+            "SV",
+            "MQ",
+            "GL",
+            "SX",
+            "AG",
+            "MS",
+            "AI",
+            "GP",
+            "MX",
+            "GT",
+            "VC",
+            "KY",
+            "CR",
+            "TC",
+            "PA",
+            "VG",
+            "CU",
+            "VI",
+            "CW",
+            "AW",
+            "LC",
+            "NI",
+            "PM"
+          ]
+        },
+        "signUpOpen": true,
+        "shouldBlock": false
+      },
+      "$navList": {
+        "i18n": {
+          "logout": "Đăng xuất",
+          "login": "login",
+          "uploadVideo": "Tải video lên",
+          "watchNow": "Xem ngay",
+          "downloadOnAppStore": "Tải về miễn phí trên App Store",
+          "downloadOnGooglePlay": "Tải về miễn phí trên Google Play",
+          "reflowDownload": "Tải về ngay",
+          "download": "Tải về",
+          "trending": "Thịnh hành",
+          "discover": "Khám phá",
+          "cookiesBannerDetails": "Chúng tôi và đối tác của  mình sử dụng cookie và các công nghệ khác để phân tích lưu lượng truy cập và  tối ưu hóa trải nghiệm của bạn. Hãy xem thêm thông tin và kiểm soát cài đặt  cookie của bạn bất cứ lúc nào trong Chính sách Cookie của chúng tôi.",
+          "cookiesBannerCookiesPolicy": "Chính sách Cookie",
+          "cookiesBannerAccept": "Chấp nhận",
+          "webDoNotSellSettingsSavedToast": "Đã lưu!",
+          "covidBannerText": "Những nỗ lực cộng đồng của TikTok trong mùa dịch COVID-19",
+          "viewProfile": "Xem hồ sơ",
+          "viewAnalytics": "Xem phân tích",
+          "Logout": "Đăng xuất"
+        },
+        "nav": [
+          {
+            "title": "Công ty",
+            "children": [
+              {
+                "title": "Giới thiệu",
+                "href": "https://www.tiktok.com/about?lang=vi"
+              },
+              {
+                "title": "Bảng tin",
+                "href": "https://newsroom.tiktok.com/"
+              },
+              {
+                "title": "Liên hệ",
+                "href": "https://www.tiktok.com/about/contact?lang=vi"
+              },
+              {
+                "title": "Sự nghiệp",
+                "href": "https://careers.tiktok.com"
+              },
+              {
+                "title": "ByteDance",
+                "href": "https://www.bytedance.com/"
+              }
+            ]
+          },
+          {
+            "title": "Chương trình",
+            "children": [
+              {
+                "title": "TikTok for Good",
+                "href": "https://www.tiktok.com/forgood"
+              },
+              {
+                "title": "Advertise",
+                "href": "https://ads.tiktok.com/?refer=tiktok_web"
+              },
+              {
+                "title": "Developers",
+                "href": "https://developers.tiktok.com/?refer=tiktok_web"
+              }
+            ]
+          },
+          {
+            "title": "Hỗ trợ",
+            "children": [
+              {
+                "title": "Trung tâm Trợ giúp",
+                "href": "https://support.tiktok.com/vi"
+              },
+              {
+                "title": "Trung tâm An toàn",
+                "href": "https://www.tiktok.com/safety?lang=vi"
+              },
+              {
+                "title": "Hướng dẫn Cộng đồng",
+                "href": "https://www.tiktok.com/community-guidelines?lang=vi"
+              },
+              {
+                "title": "Minh bạch",
+                "href": "https://www.tiktok.com/transparency?lang=en"
+              }
+            ]
+          },
+          {
+            "title": "Pháp lý",
+            "children": [
+              {
+                "title": "Tuân thủ pháp luật",
+                "key": "law-enforcement",
+                "href": "https://www.tiktok.com/legal/law-enforcement?lang=vi-VN"
+              },
+              {
+                "title": "Điều Khoản Dịch Vụ",
+                "key": "terms-of-use",
+                "href": "https://www.tiktok.com/legal/terms-of-use?lang=vi-VN"
+              },
+              {
+                "title": "Chính Sách Quyền Riêng Tư",
+                "key": "privacy-policy",
+                "href": "https://www.tiktok.com/legal/privacy-policy?lang=vi-VN"
+              }
+            ]
+          }
+        ],
+        "head": [
+          {
+            "title": "Trang chủ",
+            "href": "https://www.tiktok.com/vi/"
+          },
+          {
+            "title": "Giới thiệu TikTok",
+            "href": "https://www.tiktok.com/about?lang=vi"
+          },
+          {
+            "title": "Thịnh hành",
+            "href": "https://www.tiktok.com/trending?lang=vi",
+            "visibleOnMobile": true
+          },
+          {
+            "title": "Khám phá",
+            "href": "https://www.tiktok.com/discover?lang=vi"
+          },
+          {
+            "title": "Đang Follow",
+            "href": "https://www.tiktok.com/following?lang=vi"
+          }
+        ],
+        "langList": [
+          {
+            "value": "id",
+            "label": "Bahasa Indonesia"
+          },
+          {
+            "value": "de",
+            "label": "Deutsch"
+          },
+          {
+            "value": "en",
+            "label": "English"
+          },
+          {
+            "value": "es",
+            "label": "Español"
+          },
+          {
+            "value": "fr",
+            "label": "Français"
+          },
+          {
+            "value": "it",
+            "label": "Italiano"
+          },
+          {
+            "value": "pl",
+            "label": "Polski"
+          },
+          {
+            "value": "pt_BR",
+            "label": "Português"
+          },
+          {
+            "value": "vi",
+            "label": "Tiếng Việt"
+          },
+          {
+            "value": "tr",
+            "label": "Türkçe"
+          },
+          {
+            "value": "ru",
+            "label": "Русский"
+          },
+          {
+            "value": "hi",
+            "label": "हिन्दी"
+          },
+          {
+            "value": "ko",
+            "label": "한국어"
+          },
+          {
+            "value": "ja",
+            "label": "日本語"
+          },
+          {
+            "value": "zh_Hant",
+            "label": "繁體中文"
+          },
+          {
+            "value": "ar",
+            "label": "العربية"
+          }
+        ]
+      },
+      "$user": {
+        "uid": "6858432355930915842",
+        "avatarUri": [
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/6891676091958689798.webp?x-expires=1608177600&x-signature=YFLVbiRww0ptvONAoSJHeH9fvbw%3D",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/6891676091958689798.jpeg?x-expires=1608177600&x-signature=NbujoMk8yVWlDwdc1ajfIzAHgyQ%3D"
+        ],
+        "ftcUser": false,
+        "uniqueId": "user024146374",
+        "secUid": "MS4wLjABAAAA8ESxaTdczuXatXGw2jPU3-xcQ3H8OCPTuda6hfIHhJ5ZNWXS87Bee9aOgV6d6GFH",
+        "region": "VN",
+        "hasLivePermission": false,
+        "nickName": "Duy Anh",
+        "accountStatus": "public"
+      }
+    },
+    "pageProps": {
+      "key": "6904968451937422593",
+      "serverCode": 200,
+      "statusCode": 0,
+      "statusMsg": "",
+      "itemInfo": {
+        "itemStruct": {
+          "id": "6904968451937422593",
+          "desc": "Dẫn dắt câu chuyện kiểu Huyen Trang @tranhuyentrangne",
+          "createTime": 1607688251,
+          "video": {
+            "id": "v07025580000bv9m0dm2o0n7cbigebj0",
+            "height": 960,
+            "width": 540,
+            "duration": 20,
+            "ratio": "720p",
+            "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d7c2c62976084a419cf4e4aee4164e38_1607688254?x-expires=1608112800&x-signature=dO0Q7bkR09XZ6e1hcZirwaOrsPk%3D",
+            "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/587c9a8540a441f4b7ec346ef4121903_1607688253?x-expires=1608112800&x-signature=AvlEX1S%2BhuVlZ8SrWn%2FcPpRbbRI%3D",
+            "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/6e4722f360044b6ba8d0885ee4ba0d50_1607688254?x-expires=1608112800&x-signature=typzujAiBx%2BTW2T4JDIOLp%2BPNNk%3D",
+            "playAddr": "https://v16-web.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/738d55171e8b4d7c9c95cf2bfa8e23e9/?a=1988&br=2466&bt=1233&cd=0%7C0%7C1&cr=0&cs=0&cv=1&dr=3&ds=3&er=&expire=1608113239&l=202012160406590102340881461F00508C&lr=tiktok&mime_type=video_mp4&policy=2&qs=0&rc=M2VqZTozNWdweTMzOzgzM0ApNGg8N2Q6OGRoNzY0OGQ2PGdnYmZga2xqLTZfLS0yLzRzc2E2L19eMDMtLmBiXjQvXjQ6Yw%3D%3D&signature=1641fa4f10d2993311777d65545d9c94&tk=tt_webid_v2&vl=&vr=",
+            "downloadAddr": "https://v16-web.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/738d55171e8b4d7c9c95cf2bfa8e23e9/?a=1988&br=2466&bt=1233&cd=0%7C0%7C1&cr=0&cs=0&cv=1&dr=3&ds=3&er=&expire=1608113239&l=202012160406590102340881461F00508C&lr=tiktok&mime_type=video_mp4&policy=2&qs=0&rc=M2VqZTozNWdweTMzOzgzM0ApNGg8N2Q6OGRoNzY0OGQ2PGdnYmZga2xqLTZfLS0yLzRzc2E2L19eMDMtLmBiXjQvXjQ6Yw%3D%3D&signature=1641fa4f10d2993311777d65545d9c94&tk=tt_webid_v2&vl=&vr=",
+            "shareCover": [
+              "",
+              "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/587c9a8540a441f4b7ec346ef4121903_1607688253~tplv-tiktok-play.jpeg?x-expires=1608112800&x-signature=XkLNFfqjnMrtNZ%2FQ1Lyx78o4k7k%3D",
+              "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/587c9a8540a441f4b7ec346ef4121903_1607688253~tplv-tiktok-play2.jpeg?x-expires=1608112800&x-signature=zJStgFGV8jxlaVsQLNsXEXaWmBM%3D"
+            ],
+            "reflowCover": "https://p16-sign-sg.tiktokcdn.com/obj/v0201/ec6746268bf5a12a9ef415827a39783d?x-expires=1608112800&x-signature=%2F1sm7wnrKBasQ3KeZJmqFGBVNzQ%3D"
+          },
+          "author": {
+            "id": "6688877199146042369",
+            "shortId": "0",
+            "uniqueId": "deustiendatne",
+            "nickname": "Deus Tiến Đạt",
+            "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=yVv155RF9%2FbYax%2FuMLUOwNti8r8%3D",
+            "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=p8KXRuHI7T%2FM3c2J0ukCOSB5YiM%3D",
+            "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=iB7qrvFFsnUXVmRTCP1kjfBj%2BrA%3D",
+            "signature": "Fb: Đào Tiến Đạt fanpage: Deus Tiến Đạt\nContact for work: booking@hqgroups.vn",
+            "createTime": 1557346902,
+            "verified": false,
+            "secUid": "MS4wLjABAAAAbmpubHYGU85xXeysOnsVZOeM3kuXfpfJ5aL9F_ALCX-HcD_FhEVeOaCeWrskRV_A",
+            "ftc": false,
+            "relation": 0,
+            "openFavorite": false,
+            "commentSetting": 0,
+            "duetSetting": 0,
+            "stitchSetting": 0,
+            "privateAccount": false,
+            "secret": false
+          },
+          "music": {
+            "id": "6904968449248873217",
+            "title": "nhạc nền - Deus Tiến Đạt",
+            "playUrl": "https://sf16-sg.tiktokcdn.com/obj/tiktok-obj/6904968403702893313.mp3",
+            "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=yVv155RF9%2FbYax%2FuMLUOwNti8r8%3D",
+            "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=p8KXRuHI7T%2FM3c2J0ukCOSB5YiM%3D",
+            "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/98a3773601b6d2f21f10433e99195b4b.jpeg?x-expires=1608177600&x-signature=iB7qrvFFsnUXVmRTCP1kjfBj%2BrA%3D",
+            "authorName": "Deus Tiến Đạt",
+            "original": true,
+            "duration": 20,
+            "album": "",
+            "scheduleSearchTime": 0
+          },
+          "challenges": [],
+          "stats": {
+            "diggCount": 744800,
+            "shareCount": 9549,
+            "commentCount": 4316,
+            "playCount": 8000000
+          },
+          "isActivityItem": false,
+          "duetInfo": {
+            "duetFromId": "0"
+          },
+          "warnInfo": [],
+          "originalItem": false,
+          "officalItem": false,
+          "textExtra": [
+            {
+              "awemeId": "",
+              "start": 36,
+              "end": 53,
+              "hashtagId": "",
+              "hashtagName": "",
+              "type": 0,
+              "userId": "6650285005031522305",
+              "isCommerce": false,
+              "userUniqueId": "tranhuyentrangne",
+              "secUid": "MS4wLjABAAAAKuzP6Jcfh8toWI2ZdWEV60vyQXE-Vv0FAQ9_ro76KZshR90c6zabdP3wVSkbjvp2"
+            }
+          ],
+          "secret": false,
+          "forFriend": false,
+          "digged": true,
+          "itemCommentStatus": 0,
+          "showNotPass": false,
+          "vl1": false,
+          "takeDown": 0,
+          "itemMute": false,
+          "effectStickers": [],
+          "authorStats": {
+            "followerCount": 790600,
+            "followingCount": 2,
+            "heart": 17500000,
+            "heartCount": 17500000,
+            "videoCount": 66,
+            "diggCount": 150
+          },
+          "privateItem": false,
+          "duetEnabled": true,
+          "stitchEnabled": true,
+          "stickersOnItem": [],
+          "isAd": false,
+          "shareEnabled": true
+        }
+      },
+      "metaParams": {
+        "title": "Dẫn dắt câu chuyện kiểu Huyen Trang @tranhuyentrangne",
+        "keywords": "Deus Tiến Đạt,deustiendatne,TikTok, ティックトック, tik tok, tick tock, tic tok, tic toc, tictok, тик ток, ticktock",
+        "description": "Deus Tiến Đạt (@deustiendatne) đã tạo một video ngắn trên TikTok có bản nhạc nhạc nền - Deus Tiến Đạt. | Dẫn dắt câu chuyện kiểu Huyen Trang @tranhuyentrangne",
+        "canonicalHref": "https://www.tiktok.com/@deustiendatne/video/6904968451937422593",
+        "robotsContent": "index, follow",
+        "applicableDevice": "pc, mobile"
+      },
+      "videoObjectPageProps": {},
+      "feedConfig": {
+        "id": "6904968451937422593",
+        "pageType": 0,
+        "secUid": "",
+        "emptyTip": "Không có nội dung"
+      },
+      "pageOptions": {
+        "footer": {
+          "hidden": true
+        },
+        "header": {
+          "showUpload": true,
+          "type": "webapp"
+        }
+      }
+    },
+    "pathname": "/share/video",
+    "loadInit": false
+  },
+  "page": "/share/video",
+  "query": {
+    "lang": "vi",
+    "uniqueId": "deustiendatne",
+    "id": "6904968451937422593",
+    "$initialProps": {
+      "$wid": "6906700787856016898",
+      "$host": "www.tiktok.com",
+      "$pageUrl": "/@deustiendatne/video/6904968451937422593?lang=vi",
+      "$fullUrl": "https://www.tiktok.com/@deustiendatne/video/6904968451937422593?lang=vi",
+      "$isMobile": false,
+      "$isAndroid": false,
+      "$isIOS": false,
+      "$needFix": false,
+      "$requestId": "29182681608091619414",
+      "$cookieConsent": {
+        "ga": true,
+        "af": true,
+        "fbp": true,
+        "lip": true
+      },
+      "$deviceLimitRegisterExpired": true,
+      "$csrfToken": "9ee5YZI9KZvVteFr3FuKIbrU",
+      "$region": "VN",
+      "$isIMessage": false,
+      "$language": "vi",
+      "$originalLanguage": "vi",
+      "$languageList": [
+        {
+          "value": "id",
+          "alias": "id-ID",
+          "label": "Bahasa Indonesia",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "de",
+          "alias": "de-DE",
+          "label": "Deutsch",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "en",
+          "alias": "en",
+          "label": "English",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "es",
+          "alias": "es",
+          "label": "Español",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "fr",
+          "alias": "fr",
+          "label": "Français",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "it",
+          "alias": "it-IT",
+          "label": "Italiano",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pl",
+          "alias": "pl-PL",
+          "label": "Polski",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "pt_BR",
+          "alias": "pt-BR",
+          "label": "Português",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "vi",
+          "alias": "vi-VN",
+          "label": "Tiếng Việt",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "tr",
+          "alias": "tr-TR",
+          "label": "Türkçe",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ru",
+          "alias": "ru-RU",
+          "label": "Русский",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "hi",
+          "alias": "hi-IN",
+          "label": "हिन्दी",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ko",
+          "alias": "ko-KR",
+          "label": "한국어",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ja",
+          "alias": "ja-JP",
+          "label": "日本語",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "zh_Hant",
+          "alias": "zh-Hant-TW",
+          "label": "繁體中文",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        },
+        {
+          "value": "ar",
+          "alias": "ar",
+          "label": "العربية",
+          "children": [
+            {
+              "value": "default",
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "$os": "windows",
+      "$reflowType": "t",
+      "$appId": 1180,
+      "$botType": "others",
+      "$appType": "t",
+      "$legalList": [
+        {
+          "title": "Tuân thủ pháp luật",
+          "key": "law-enforcement",
+          "href": "https://www.tiktok.com/legal/law-enforcement?lang=vi-VN"
+        },
+        {
+          "title": "Điều Khoản Dịch Vụ",
+          "key": "terms-of-use",
+          "href": "https://www.tiktok.com/legal/terms-of-use?lang=vi-VN"
+        },
+        {
+          "title": "Chính Sách Quyền Riêng Tư",
+          "key": "privacy-policy",
+          "href": "https://www.tiktok.com/legal/privacy-policy?lang=vi-VN"
+        }
+      ],
+      "$sgOpen": false,
+      "$baseURL": "www.tiktok.com",
+      "$gray": {
+        "upload": false,
+        "tea": true
+      },
+      "$downloadLink": {
+        "amazon": {
+          "visible": true,
+          "normal": "https://www.amazon.com/dp/B07KR1RJL2/"
+        },
+        "google": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/com.ss.android.ugc.trill"
+        },
+        "apple": {
+          "visible": true,
+          "normal": "https://www.tiktok.com/download-link/af/id1235601864"
+        }
+      },
+      "$abTestVersion": {
+        "versionName": "70009996,70016701,70032244,70001178,70019680,70046911,70050412",
+        "parameters": {
+          "foryou_home_mobile_test": {
+            "vid": "v2"
+          },
+          "mobile_video_detail_test": {
+            "vid": "v1"
+          },
+          "autoplay_test": {
+            "vid": "v1"
+          },
+          "foryou_as_home_pc_test": {
+            "vid": "v1"
+          },
+          "more_shares_detail_test": {
+            "vid": "v3"
+          },
+          "open_url_test": {
+            "vid": "v1"
+          },
+          "shape_js_test": {
+            "enable": "true"
+          },
+          "more_shares_column_test": {
+            "vid": "v1"
+          },
+          "remove_right_column_test": {
+            "vid": "v1"
+          },
+          "node_data_source_test": {
+            "vid": "v2"
+          },
+          "foryou_404_test": {
+            "vid": "v2"
+          },
+          "shape_js_upload_test": {
+            "enable": "false"
+          },
+          "foryou_as_home_mobile_test": {
+            "vid": "v1"
+          },
+          "embed_v2_test": {
+            "vid": "v1"
+          },
+          "video_detail_test": {
+            "vid": "v4"
+          },
+          "video_mute_test": {
+            "vid": "v3"
+          },
+          "foryou_home_pc_test": {
+            "vid": "v3"
+          },
+          "foryou_detail_test": {
+            "vid": "v3"
+          },
+          "shape_js_webapp_test": {
+            "enable": "true"
+          },
+          "profile_dropdown_card_test": {
+            "vid": "v1"
+          },
+          "detail_page_video_card_test": {
+            "vid": "v1"
+          },
+          "one_column_engagement_buttons_test": {
+            "vid": "v3"
+          },
+          "side_nav_test": {
+            "vid": "v4"
+          },
+          "nothing_test": {
+            "vid": "v2"
+          },
+          "video_cover_test": {
+            "vid": "v1"
+          }
+        }
+      },
+      "$config": {
+        "covidBanner": {
+          "open": true,
+          "url": "https://www.tiktok.com/safety/resources/covid-19",
+          "background": "rgba(125,136,227,1)"
+        },
+        "bytedanceLink": {
+          "linkVisible": true,
+          "overrideUrl": ""
+        },
+        "krPopup": {
+          "open": false,
+          "url": "",
+          "text": []
+        },
+        "sgOpen": {
+          "SG_OPEN": false,
+          "BOT_THRESHOLD": 70,
+          "EXCLUDE_REGIONS": [
+            "DE",
+            "PT",
+            "DK",
+            "LT",
+            "LU",
+            "HR",
+            "LV",
+            "UA",
+            "HU",
+            "MC",
+            "MD",
+            "ME",
+            "IE",
+            "MK",
+            "EE",
+            "AD",
+            "IM",
+            "MT",
+            "IS",
+            "AL",
+            "IT",
+            "VA",
+            "ES",
+            "EU",
+            "AT",
+            "JE",
+            "RO",
+            "NL",
+            "BA",
+            "NO",
+            "RS",
+            "BE",
+            "FI",
+            "BG",
+            "FO",
+            "FR",
+            "SE",
+            "SI",
+            "BY",
+            "SJ",
+            "SK",
+            "SM",
+            "GB",
+            "GE",
+            "GG",
+            "GI",
+            "CH",
+            "GR",
+            "CY",
+            "CZ",
+            "PL",
+            "LI",
+            "TR",
+            "UY",
+            "FK",
+            "CL",
+            "PY",
+            "CO",
+            "GS",
+            "BO",
+            "VE",
+            "BR",
+            "AR",
+            "GY",
+            "PE",
+            "EC",
+            "GF",
+            "SR",
+            "BB",
+            "TT",
+            "PR",
+            "JM",
+            "HN",
+            "DM",
+            "BL",
+            "BM",
+            "DO",
+            "HT",
+            "BQ",
+            "BS",
+            "BZ",
+            "MF",
+            "GD",
+            "CA",
+            "US",
+            "KN",
+            "SV",
+            "MQ",
+            "GL",
+            "SX",
+            "AG",
+            "MS",
+            "AI",
+            "GP",
+            "MX",
+            "GT",
+            "VC",
+            "KY",
+            "CR",
+            "TC",
+            "PA",
+            "VG",
+            "CU",
+            "VI",
+            "CW",
+            "AW",
+            "LC",
+            "NI",
+            "PM"
+          ]
+        },
+        "signUpOpen": true,
+        "shouldBlock": false
+      },
+      "$navList": {
+        "i18n": {
+          "logout": "Đăng xuất",
+          "login": "login",
+          "uploadVideo": "Tải video lên",
+          "watchNow": "Xem ngay",
+          "downloadOnAppStore": "Tải về miễn phí trên App Store",
+          "downloadOnGooglePlay": "Tải về miễn phí trên Google Play",
+          "reflowDownload": "Tải về ngay",
+          "download": "Tải về",
+          "trending": "Thịnh hành",
+          "discover": "Khám phá",
+          "cookiesBannerDetails": "Chúng tôi và đối tác của  mình sử dụng cookie và các công nghệ khác để phân tích lưu lượng truy cập và  tối ưu hóa trải nghiệm của bạn. Hãy xem thêm thông tin và kiểm soát cài đặt  cookie của bạn bất cứ lúc nào trong Chính sách Cookie của chúng tôi.",
+          "cookiesBannerCookiesPolicy": "Chính sách Cookie",
+          "cookiesBannerAccept": "Chấp nhận",
+          "webDoNotSellSettingsSavedToast": "Đã lưu!",
+          "covidBannerText": "Những nỗ lực cộng đồng của TikTok trong mùa dịch COVID-19",
+          "viewProfile": "Xem hồ sơ",
+          "viewAnalytics": "Xem phân tích",
+          "Logout": "Đăng xuất"
+        },
+        "nav": [
+          {
+            "title": "Công ty",
+            "children": [
+              {
+                "title": "Giới thiệu",
+                "href": "https://www.tiktok.com/about?lang=vi"
+              },
+              {
+                "title": "Bảng tin",
+                "href": "https://newsroom.tiktok.com/"
+              },
+              {
+                "title": "Liên hệ",
+                "href": "https://www.tiktok.com/about/contact?lang=vi"
+              },
+              {
+                "title": "Sự nghiệp",
+                "href": "https://careers.tiktok.com"
+              },
+              {
+                "title": "ByteDance",
+                "href": "https://www.bytedance.com/"
+              }
+            ]
+          },
+          {
+            "title": "Chương trình",
+            "children": [
+              {
+                "title": "TikTok for Good",
+                "href": "https://www.tiktok.com/forgood"
+              },
+              {
+                "title": "Advertise",
+                "href": "https://ads.tiktok.com/?refer=tiktok_web"
+              },
+              {
+                "title": "Developers",
+                "href": "https://developers.tiktok.com/?refer=tiktok_web"
+              }
+            ]
+          },
+          {
+            "title": "Hỗ trợ",
+            "children": [
+              {
+                "title": "Trung tâm Trợ giúp",
+                "href": "https://support.tiktok.com/vi"
+              },
+              {
+                "title": "Trung tâm An toàn",
+                "href": "https://www.tiktok.com/safety?lang=vi"
+              },
+              {
+                "title": "Hướng dẫn Cộng đồng",
+                "href": "https://www.tiktok.com/community-guidelines?lang=vi"
+              },
+              {
+                "title": "Minh bạch",
+                "href": "https://www.tiktok.com/transparency?lang=en"
+              }
+            ]
+          },
+          {
+            "title": "Pháp lý",
+            "children": [
+              {
+                "title": "Tuân thủ pháp luật",
+                "key": "law-enforcement",
+                "href": "https://www.tiktok.com/legal/law-enforcement?lang=vi-VN"
+              },
+              {
+                "title": "Điều Khoản Dịch Vụ",
+                "key": "terms-of-use",
+                "href": "https://www.tiktok.com/legal/terms-of-use?lang=vi-VN"
+              },
+              {
+                "title": "Chính Sách Quyền Riêng Tư",
+                "key": "privacy-policy",
+                "href": "https://www.tiktok.com/legal/privacy-policy?lang=vi-VN"
+              }
+            ]
+          }
+        ],
+        "head": [
+          {
+            "title": "Trang chủ",
+            "href": "https://www.tiktok.com/vi/"
+          },
+          {
+            "title": "Giới thiệu TikTok",
+            "href": "https://www.tiktok.com/about?lang=vi"
+          },
+          {
+            "title": "Thịnh hành",
+            "href": "https://www.tiktok.com/trending?lang=vi",
+            "visibleOnMobile": true
+          },
+          {
+            "title": "Khám phá",
+            "href": "https://www.tiktok.com/discover?lang=vi"
+          },
+          {
+            "title": "Đang Follow",
+            "href": "https://www.tiktok.com/following?lang=vi"
+          }
+        ],
+        "langList": [
+          {
+            "value": "id",
+            "label": "Bahasa Indonesia"
+          },
+          {
+            "value": "de",
+            "label": "Deutsch"
+          },
+          {
+            "value": "en",
+            "label": "English"
+          },
+          {
+            "value": "es",
+            "label": "Español"
+          },
+          {
+            "value": "fr",
+            "label": "Français"
+          },
+          {
+            "value": "it",
+            "label": "Italiano"
+          },
+          {
+            "value": "pl",
+            "label": "Polski"
+          },
+          {
+            "value": "pt_BR",
+            "label": "Português"
+          },
+          {
+            "value": "vi",
+            "label": "Tiếng Việt"
+          },
+          {
+            "value": "tr",
+            "label": "Türkçe"
+          },
+          {
+            "value": "ru",
+            "label": "Русский"
+          },
+          {
+            "value": "hi",
+            "label": "हिन्दी"
+          },
+          {
+            "value": "ko",
+            "label": "한국어"
+          },
+          {
+            "value": "ja",
+            "label": "日本語"
+          },
+          {
+            "value": "zh_Hant",
+            "label": "繁體中文"
+          },
+          {
+            "value": "ar",
+            "label": "العربية"
+          }
+        ]
+      },
+      "$user": {
+        "uid": "6858432355930915842",
+        "avatarUri": [
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/6891676091958689798.webp?x-expires=1608177600&x-signature=YFLVbiRww0ptvONAoSJHeH9fvbw%3D",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/6891676091958689798.jpeg?x-expires=1608177600&x-signature=NbujoMk8yVWlDwdc1ajfIzAHgyQ%3D"
+        ],
+        "ftcUser": false,
+        "uniqueId": "user024146374",
+        "secUid": "MS4wLjABAAAA8ESxaTdczuXatXGw2jPU3-xcQ3H8OCPTuda6hfIHhJ5ZNWXS87Bee9aOgV6d6GFH",
+        "region": "VN",
+        "hasLivePermission": false,
+        "nickName": "Duy Anh",
+        "accountStatus": "public"
+      }
+    },
+    "aa59d67c2123f094d0d6798ffe651c4d": {}
+  },
+  "buildId": "1.0.3.858",
+  "assetPrefix": "https://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/web/node",
+  "isFallback": false,
+  "customServer": true,
+  "gip": true,
+  "appGip": true
+}
