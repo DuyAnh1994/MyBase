@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SaveFragmentNavigator">
+        <attr name="android:name"/>
+    </declare-styleable>
+
+    <declare-styleable name="RadiusSeekBar">
+        <attr name="radius_seek_bar_progress" format="integer" />
+    </declare-styleable>
+
+</resources>
